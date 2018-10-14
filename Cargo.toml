@@ -1,0 +1,7 @@
+[package]
+name = "cc_compression"
+version = "0.1.0"
+authors = ["Connor <connormccutcheon95@gmail.com>"]
+
+[dependencies]
+image = "*"
